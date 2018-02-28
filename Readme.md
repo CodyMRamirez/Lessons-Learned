@@ -3,4 +3,5 @@
 1. HTML
 2. CSS
 3. Git
-4. More to come
+4. Javascript
+5. More to come
